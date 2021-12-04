@@ -1,5 +1,6 @@
 # VWAP calculator
 A realtime VWAP calculator of crypto currencies. It uses coinbase as its default provider for real time data over websocket.
+
 <img width="673" alt="screenshot" src="https://user-images.githubusercontent.com/4066051/144716693-2223bc33-e689-4135-8fc8-3000df29a617.png">
 
 ## Design
